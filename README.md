@@ -3,11 +3,8 @@
 - CURL KÜTÜHANESİ KULLANILDI
 - BULUNAN SONUÇLARI AYRIŞTIRMAK İÇİN REGEX KULLANILDI
 
-(Arayüz / Tasarım / Panel)<br>
-<img src="https://i.hizliresim.com/3youukg.jpg" width="60%"><br>
-(Yönetim Paneli)<br>
-<img src="https://i.hizliresim.com/hnx3f7h.jpg" width="60%">
-
+(GÖRSEL)<br>
+<img src="https://i.hizliresim.com/b0nvmki.png" width="60%"><br>
 
 ## Kullanılan Teknolojiler
 Regex / Curl / Php
